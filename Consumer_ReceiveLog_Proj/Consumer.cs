@@ -21,7 +21,6 @@ namespace Consumer_ReceiveLog_Proj
 
                 // That relationship between exchange and a queue is called a binding.
                 // You can list existing bindings using, rabbitmqctl list_bindings.
-                // test
                 channel.QueueBind(queue: queueName, exchange: "logs", routingKey: "");
 
                 Console.WriteLine(" [*] Waiting for logs.");
