@@ -1,0 +1,8 @@
+c:\users\yitzh_000\documents\visual studio 2013\Projects\Rabbitmq_Test\ProducerProj\bin\Debug\ProducerProj.exe.config
+c:\users\yitzh_000\documents\visual studio 2013\Projects\Rabbitmq_Test\ProducerProj\bin\Debug\ProducerProj.exe
+c:\users\yitzh_000\documents\visual studio 2013\Projects\Rabbitmq_Test\ProducerProj\bin\Debug\ProducerProj.pdb
+c:\users\yitzh_000\documents\visual studio 2013\Projects\Rabbitmq_Test\ProducerProj\bin\Debug\RabbitMQ.Client.dll
+c:\users\yitzh_000\documents\visual studio 2013\Projects\Rabbitmq_Test\ProducerProj\bin\Debug\RabbitMQ.Client.xml
+c:\users\yitzh_000\documents\visual studio 2013\Projects\Rabbitmq_Test\ProducerProj\obj\Debug\ProducerProj.csprojResolveAssemblyReference.cache
+c:\users\yitzh_000\documents\visual studio 2013\Projects\Rabbitmq_Test\ProducerProj\obj\Debug\ProducerProj.exe
+c:\users\yitzh_000\documents\visual studio 2013\Projects\Rabbitmq_Test\ProducerProj\obj\Debug\ProducerProj.pdb

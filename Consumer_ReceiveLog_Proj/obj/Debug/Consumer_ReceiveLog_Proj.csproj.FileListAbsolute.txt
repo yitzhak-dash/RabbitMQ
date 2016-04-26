@@ -1,0 +1,8 @@
+C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\Consumer_ReceiveLog_Proj\bin\Debug\Consumer_ReceiveLog_Proj.exe.config
+C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\Consumer_ReceiveLog_Proj\bin\Debug\Consumer_ReceiveLog_Proj.exe
+C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\Consumer_ReceiveLog_Proj\bin\Debug\Consumer_ReceiveLog_Proj.pdb
+C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\Consumer_ReceiveLog_Proj\bin\Debug\RabbitMQ.Client.dll
+C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\Consumer_ReceiveLog_Proj\bin\Debug\RabbitMQ.Client.xml
+C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\Consumer_ReceiveLog_Proj\obj\Debug\Consumer_ReceiveLog_Proj.csprojResolveAssemblyReference.cache
+C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\Consumer_ReceiveLog_Proj\obj\Debug\Consumer_ReceiveLog_Proj.exe
+C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\Consumer_ReceiveLog_Proj\obj\Debug\Consumer_ReceiveLog_Proj.pdb

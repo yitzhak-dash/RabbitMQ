@@ -1,0 +1,7 @@
+C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\ProducerWorkQueuesProj\bin\Debug\ProducerWorkQueuesProj.exe.config
+C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\ProducerWorkQueuesProj\bin\Debug\ProducerWorkQueuesProj.exe
+C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\ProducerWorkQueuesProj\bin\Debug\ProducerWorkQueuesProj.pdb
+C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\ProducerWorkQueuesProj\bin\Debug\RabbitMQ.Client.dll
+C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\ProducerWorkQueuesProj\bin\Debug\RabbitMQ.Client.xml
+C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\ProducerWorkQueuesProj\obj\Debug\ProducerWorkQueuesProj.exe
+C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\ProducerWorkQueuesProj\obj\Debug\ProducerWorkQueuesProj.pdb
