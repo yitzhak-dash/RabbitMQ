@@ -16,8 +16,12 @@ namespace Consumer_ReceiveLog_Proj
             {
                 channel.ExchangeDeclare("logs", "fanout");
 
+                // we create a non-durable, exclusive, autodelete queue with a generated name
                 var queueName = channel.QueueDeclare().QueueName;
 
+                // That relationship between exchange and a queue is called a binding.
+                // You can list existing bindings using, rabbitmqctl list_bindings.
+                // test
                 channel.QueueBind(queue: queueName, exchange: "logs", routingKey: "");
 
                 Console.WriteLine(" [*] Waiting for logs.");
