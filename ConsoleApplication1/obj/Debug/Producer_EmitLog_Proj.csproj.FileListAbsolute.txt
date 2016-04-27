@@ -1,8 +1,0 @@
-C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\ConsoleApplication1\bin\Debug\Producer_EmitLog_Proj.exe.config
-C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\ConsoleApplication1\bin\Debug\Producer_EmitLog_Proj.exe
-C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\ConsoleApplication1\bin\Debug\Producer_EmitLog_Proj.pdb
-C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\ConsoleApplication1\bin\Debug\RabbitMQ.Client.dll
-C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\ConsoleApplication1\bin\Debug\RabbitMQ.Client.xml
-C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\ConsoleApplication1\obj\Debug\Producer_EmitLog_Proj.csprojResolveAssemblyReference.cache
-C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\ConsoleApplication1\obj\Debug\Producer_EmitLog_Proj.exe
-C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\ConsoleApplication1\obj\Debug\Producer_EmitLog_Proj.pdb

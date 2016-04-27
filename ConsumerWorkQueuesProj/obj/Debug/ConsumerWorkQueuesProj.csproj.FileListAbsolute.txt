@@ -1,8 +1,0 @@
-C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\ConsumerWorkQueuesProj\bin\Debug\ConsumerWorkQueuesProj.exe.config
-C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\ConsumerWorkQueuesProj\bin\Debug\ConsumerWorkQueuesProj.exe
-C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\ConsumerWorkQueuesProj\bin\Debug\ConsumerWorkQueuesProj.pdb
-C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\ConsumerWorkQueuesProj\bin\Debug\RabbitMQ.Client.dll
-C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\ConsumerWorkQueuesProj\bin\Debug\RabbitMQ.Client.xml
-C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\ConsumerWorkQueuesProj\obj\Debug\ConsumerWorkQueuesProj.csprojResolveAssemblyReference.cache
-C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\ConsumerWorkQueuesProj\obj\Debug\ConsumerWorkQueuesProj.exe
-C:\Users\yitzh_000\Documents\Visual Studio 2013\Projects\Rabbitmq_Test\ConsumerWorkQueuesProj\obj\Debug\ConsumerWorkQueuesProj.pdb
